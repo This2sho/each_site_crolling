@@ -62,5 +62,4 @@ with open("test.json", "w", encoding="utf-8") as make_file:
 #     json.dump(read_data, make_file, indent="\t",ensure_ascii=False)
 
 browser.quit()
-
 print("완료")
