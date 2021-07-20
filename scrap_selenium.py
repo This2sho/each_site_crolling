@@ -53,6 +53,7 @@ with open("test.json", "w", encoding="utf-8") as make_file:
     json.dump(data, make_file, indent="\t", ensure_ascii=False)
 
 
+
 # 파일 쓰기 test보고 잘 됐으면 ㄱㄱ
 # 저장된 파일에 추가하기
 # with open(file_name, 'r', encoding="utf-8") as f:
