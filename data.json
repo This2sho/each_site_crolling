@@ -1,7 +1,8 @@
 {
 	"codegreen": [
 		{
-			"logo": "https://codegreen.io/static/media/Codegreen_Logo.e171720f.svg"
+			"logo": "https://codegreen.io/static/media/Codegreen_Logo.e171720f.svg",
+			"description": "우리는 Green한 Code(성향, 취향)의 작품들을 제공합니다. 우리 (QR)Code로 Green한 문화를 만들어가는 브랜드입니다."
 		},
 		{
 			"img": "https://cdshopproductimg.s3.ap-northeast-2.amazonaws.com/productimage/0e37f120-18d5-11eb-af42-43910f609fe6.jpeg",
@@ -186,7 +187,8 @@
 	],
 	"heureux": [
 		{
-			"logo": "http://heureux.kr/design/heureux/daylight/pc/img/logo.png"
+			"logo": "http://heureux.kr/design/heureux/daylight/pc/img/logo.png",
+			"description": "HEUREUX ‘오르바이스텔라’는 동물 친화적 가치소비 중심적인 브랜드로서, 이익의 20%를 동물 보호 단체에 기부 합니다. 'HEUREUX'[oe · roe]는 프랑스어로 '행복'을 의미하며 인류 뿐 아니라 동물과 모든 생명에게 행복을 가져다 주겠다는 리의 신념과 진심 어린 소망을 담고 있습니다.우리의 사명은 아름답고 지속 가능한 핸드백 및 제품을 만들며 책임 있는 생산과 소비를 장려하는 것입니다. 우리는 가죽 및 모피를 대신할 최고의 방법을 제시하고 높은 품질의 윤리적 공장과 협력하여 의식 있는 소비를 권장하는 잔인하지 않은 제품을 제공하고자 합니다. 여러분의 지원과 노력을 통해 '모두를 위한 행복'이라는 우리의 철학이 사회와 지구를 더 좋게 만들 수 있다고 믿습니다."
 		},
 		{
 			"img": "/shopimages/heureux/002013000003.jpg?1619055145",
@@ -263,7 +265,8 @@
 	],
 	"ulkin": [
 		{
-			"logo": "https://ulkin.co.kr/wordpress/wp-content/uploads/2019/09/ulkin_logo_web.png"
+			"logo": "https://ulkin.co.kr/wordpress/wp-content/uploads/2019/09/ulkin_logo_web.png",
+			"description": "얼킨은 “예술과 대중의 간극을 줄이자.” 라는 브랜드 철학을 기반으로하는 소셜패션브랜드입니다. 얼킨의 시그니쳐 아이템은 실제 회화 작품으로 제작하는 업사이클링 가방으로, 주재료로 사용하는 회화 작품은 신진 아티스트들의 버려질 예정의 습작(에스키스)입니다. 예술 문화의 가치를 대중과 공유하고 신진 아티스트들과의 협업을 통해 ‘재능 순환’ 을 실현합니다. 얼킨은 수익의 일부로 신진 아티스트들에게 로열티 제공 및 새 캔버스 등의 미술재료를 제공하고 주기적으로 신진 작가 전시를 개최하여 작가들의 작품 유통 및 판매를 지원하는 등 좀 더 나은 창작환경을 만들어 가고 있습니다."
 		},
 		{
 			"img": "https://ulkin.co.kr/wordpress/wp-content/uploads/2021/04/1-6.jpg",
@@ -446,5 +449,4 @@
 			"price": "₩29,000"
 		}
 	]
-	
 }
