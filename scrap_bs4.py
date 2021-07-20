@@ -15,7 +15,7 @@ file_name = "data.json"
 
 data = dict() # 맨 처음 파일 쓸 때 씀. + test 용
 temp_list = []
-logo_d = dict()
+brand = dict()
 
 res = requests.get(url, headers=headers)
 res.raise_for_status()
@@ -30,8 +30,10 @@ soup = BeautifulSoup(res.text, "lxml")
 # 상품 사진, 이름, 가격, 링크
 item_url = "https://contents.sixshop.com"
 logo = soup.find("a", attrs={"href":"/"}).img["src"]
-logo_d["logo"] = logo
-temp_list.append(logo_d)
+description = soup.find("div", attrs={"id":"itemElement15435168"}).get_text()
+brand["logo"] = logo
+brand["description"] = description
+temp_list.append(brand)
 
 sells = soup.find_all("div", attrs={"class":"shopProductWrapper badgeUse"})
 
