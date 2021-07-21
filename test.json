@@ -1,152 +1,128 @@
 {
-	"continew": [
+	"notours": [
 		{
-			"logo": "http://www.wecontinew.co.kr/web/upload/131/image/new/continew-b.png",
-			"description": "주식회사 모어댄의 업사이클링 브랜드 컨티뉴는 자동차 생산과정과 폐자동차에서 수거한 천연가죽, 안전벨트 및 에어백을 업사이클링하여 가방 및 악세사리로 제작하여 새로운 가치를 만들고 있습니다."
+			"logo": "https://cdn.imweb.me/thumbnail/20190319/5c90831123416.png",
+			"description": "낫아워스(NOT OURS)는 동물 착취없는 지속가능한 삶에 대한 고민으로부터 시작된 비건 패션 브랜드입니다. 낫아워스라는 이름은 영문 그대로 ‘우리의 것이 아닌' 이라는 의미를 가지고 있습니다.‘우리의 털이 아닌 동물의 털’, '우리의 가죽이 아닌 동물의 가죽'과 같은 뜻 뿐만 아니라, ‘우리의 자원이 아닌 미래 세대의 자원’에 대한 고민도 함께 담았습니다. OURS(욱스)는 프랑스어로 '곰' 이라는 뜻으로 '곰이 아닌', 즉 '동물의 가죽이나 털로 만든 것이 아닌'이라는 언어유희적 의미도 가지고 있습니다. 무심한 표정의 욱스가 낫아워스의 캐릭터입니다.낫아워스는 동물성 소재가 고급스럽다는 기존의 편견을 깨고, 좋은 비동물성 소재로 오래 사용할 수 있는 디자인의 퀄리티 높은 제품을 제작하며 불필요한 재고는 최소화하는 ‘지속 가능한’ 패션을 지향합니다.우리는 하나의 제품이 세상에 나오고 폐기 되기까지의 과정에 연결된 모든 것들에 최대한 관심을 가지고 브랜드를 만들어 가고자 합니다.낫아워스의 모든 제품은 ANIMAL & PVC FREE 입니다."
 		},
 		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/201811/73263a4743227dee467bd9bcc6a9ec3a.jpg",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=251&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 스몰 지퍼 지갑 [도브그레이] ",
-			"price": "판매가 : 47,000원 "
+			"img": "https://cdn.imweb.me/thumbnail/20210718/87b00145da109.jpg",
+			"link": "https://thenotours.com//products/?idx=283",
+			"name": "[YADAH x NOT OURS] 마음을 담다 파우치",
+			"price": "17,600원"
 		},
 		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/201811/b71adef9fe5f97a740cd5a1157837254.jpg",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=248&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 스몰 지퍼 지갑 [블랙] ",
-			"price": "판매가 : 47,000원 "
+			"img": "https://cdn.imweb.me/thumbnail/20201030/e2829f2f518a9.jpg",
+			"link": "https://thenotours.com//products/?idx=213",
+			"name": "[3rd restock] Real Cactus Card Holder I Cactus Green",
+			"price": "89,000원"
 		},
 		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/201811/962d9120b7e8edbe0911e1606adef905.jpg",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=247&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 엔벨로프 명함 카드 지갑 [베이지] ",
-			"price": "판매가 : 15,000원 "
+			"img": "https://cdn.imweb.me/thumbnail/20210302/f4df670fe6a2e.jpg",
+			"link": "https://thenotours.com//products/?idx=257",
+			"name": "[New color] Real Cactus Card Holder I Red Bean",
+			"price": "89,000원"
 		},
 		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/201811/2ce3e28c00e0798ba1ed0a14eef06591.jpg",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=246&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 에브리데이 클러치백 [프로스티 그레이] ",
-			"price": "판매가 : 89,000원 "
+			"img": "https://cdn.imweb.me/thumbnail/20201019/e4835a4d61ee4.jpg",
+			"link": "https://thenotours.com//products/?idx=214",
+			"name": "[3rd restock] Real Cactus Card Holder I Lead Black",
+			"price": "89,000원"
 		},
 		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/201810/2caa4584b01a865329f43efcda5226cf.jpg",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=233&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 x Rain Tree Foundation 필통 ",
-			"price": "판매가 : 15,000원 "
+			"img": "https://cdn.imweb.me/thumbnail/20210125/f3f1d2d3ef31c.jpg",
+			"link": "https://thenotours.com//products/?idx=248",
+			"name": "TAKE A BREAK Stacking Mug",
+			"price": "16,500원"
 		},
 		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/202008/8fea48cd54a388f22bd6bf2b06b49e3c.png",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=232&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 x Rain Tree Foundation 백팩 ",
-			"price": "판매가 : 119,000원 "
+			"img": "https://cdn.imweb.me/thumbnail/20210602/c84c2150e14b7.jpg",
+			"link": "https://thenotours.com//products/?idx=281",
+			"name": "'Memories of Summer' post card I 2 colors",
+			"price": "1,000원"
 		},
 		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/201809/1342dd4f0ededbc9a58e5171cb55cb5d.jpg",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=230&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 x Rain Tree Foundation 튜브 메신저백 ",
-			"price": "판매가 : 59,000원 "
+			"img": "https://cdn.imweb.me/thumbnail/20210602/04c4b8e855e8a.jpg",
+			"link": "https://thenotours.com//products/?idx=279",
+			"name": "'Memories of Summer' fabric I Deep Sea Navy",
+			"price": "24,000원"
 		},
 		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/201808/1601f95180d5ba87ec07139e36880c30.jpg",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=212&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 레이어 지퍼 중지갑 [브라운&베이지] ",
-			"price": "판매가 : 89,000원 "
+			"img": "https://cdn.imweb.me/thumbnail/20210601/5b1e476b56776.jpg",
+			"link": "https://thenotours.com//products/?idx=278",
+			"name": "'Memories of Summer' fabric I Aqua blue",
+			"price": "24,000원"
 		},
 		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/201808/18549d11dada266627d10c6b6810fcfd.jpg",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=211&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 레이어 지퍼 중지갑 [블랙&네이비] ",
-			"price": "판매가 : 89,000원 "
+			"img": "https://cdn.imweb.me/thumbnail/20210503/b59c3dd475035.jpg",
+			"link": "https://thenotours.com//products/?idx=268",
+			"name": "'Be Connected Cherry' Organic Cotton T-shirt I White",
+			"price": "51,000원"
 		},
 		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/201807/203_shop1_15319706556136.jpg",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=203&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 맨즈 크로스바디백 [블랙] ",
-			"price": "판매가 : 89,000원 "
+			"img": "https://cdn.imweb.me/thumbnail/20210503/da79f1ebab160.jpg",
+			"link": "https://thenotours.com//products/?idx=269",
+			"name": "'Happy Earth' Organic Cotton T-shirt I Caramel",
+			"price": "51,000원"
 		},
 		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/201807/202_shop1_15319064960438.jpg",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=202&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 엔벨로프 명함 카드 지갑 [프로스티 그레이] ",
-			"price": "판매가 : 15,000원 "
+			"img": "https://cdn.imweb.me/thumbnail/20210503/e1eeabb30c0a6.jpg",
+			"link": "https://thenotours.com//products/?idx=270",
+			"name": "'Vacance OURS' Organic Cotton T-shirt I Black",
+			"price": "54,000원"
 		},
 		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/202008/ec6cb8364cd0e8814a2a8547a9bd0234.png",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=201&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 에어백팩 [에어 핑크] ",
-			"price": "판매가 : 119,000원 "
+			"img": "https://cdn.imweb.me/thumbnail/20210209/4cfee292b06fa.jpg",
+			"link": "https://thenotours.com//products/?idx=252",
+			"name": "Proper Saddle Bag | Washed Black",
+			"price": "297,000원"
 		},
 		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/202008/1ff727445b06eff9d69590d6e44526a4.png",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=200&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 에어백팩 [에어 블루] ",
-			"price": "판매가 : 119,000원 "
+			"img": "https://cdn.imweb.me/thumbnail/20210209/467199f285308.jpg",
+			"link": "https://thenotours.com//products/?idx=251",
+			"name": "Proper Saddle Bag | Burgundy",
+			"price": "297,000원"
 		},
 		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/201807/196_shop1_15313766550502.jpg",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=196&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 폴딩 카드지갑 [카프리베이지] ",
-			"price": "판매가 : 43,000원 "
+			"img": "https://cdn.imweb.me/thumbnail/20210209/3c7d91825049c.jpg",
+			"link": "https://thenotours.com//products/?idx=250",
+			"name": "Proper Saddle Bag | Oatmeal",
+			"price": "297,000원"
 		},
 		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/201807/a0f7a0c2bf7120315075f69749c20608.jpg",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=195&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 폴딩 카드지갑 [프로스티그레이] ",
-			"price": "판매가 : 43,000원 "
+			"img": "https://cdn.imweb.me/thumbnail/20210209/24bf8bdbacbae.jpg",
+			"link": "https://thenotours.com//products/?idx=255",
+			"name": "Stripe Strap (only) | Washed Black",
+			"price": "45,000원"
 		},
 		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/201807/194_shop1_15318044081537.jpg",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=194&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 엔벨로프 명함 카드 지갑 [그레이] ",
-			"price": "판매가 : 15,000원 "
+			"img": "https://cdn.imweb.me/thumbnail/20210209/04eb7df110d87.jpg",
+			"link": "https://thenotours.com//products/?idx=254",
+			"name": "Stripe Strap (only) | Burgundy",
+			"price": "45,000원"
 		},
 		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/202008/d89c7e3eff24bc484e1207299c9fd14d.png",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=58&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 올드스트릿 가죽 토트백 [그레이] ",
-			"price": "판매가 : 239,000원 "
+			"img": "https://cdn.imweb.me/thumbnail/20210209/76331d8377693.jpg",
+			"link": "https://thenotours.com//products/?idx=253",
+			"name": "Stripe Strap (only) | Oatmeal",
+			"price": "45,000원"
 		},
 		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/202008/7c91292a218e757c1bdc101263428141.png",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=59&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 올드스트릿 가죽 토트백 [베이지] ",
-			"price": "판매가 : 239,000원 "
+			"img": "https://cdn.imweb.me/thumbnail/20210120/652f94180b3ac.jpg",
+			"link": "https://thenotours.com//products/?idx=247",
+			"name": "Hallabong Hoodie | Navy",
+			"price": "89,000원"
 		},
 		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/201805/74_shop1_485671.jpg",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=74&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 선글라스 목걸이 홀더 [크림] ",
-			"price": "판매가 : 10,000원 "
+			"img": "https://cdn.imweb.me/thumbnail/20210120/9842294280cd2.jpg",
+			"link": "https://thenotours.com//products/?idx=246",
+			"name": "Hallabong Hoodie | Sage Green",
+			"price": "89,000원"
 		},
 		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/201805/159_shop1_691023.jpg",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=159&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 선글라스 목걸이 홀더 [실버] ",
-			"price": "판매가 : 10,000원 "
-		},
-		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/201807/65_shop1_15318167004461.jpg",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=65&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 엔벨로프 명함 카드 지갑 [블루] ",
-			"price": "판매가 : 15,000원 "
-		},
-		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/201805/152_shop1_601256.jpg",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=152&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 엔벨로프 명함 카드 지갑 [레드] ",
-			"price": "판매가 : 15,000원 "
-		},
-		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/201805/153_shop1_153978.jpg",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=153&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 엔벨로프 명함 카드 지갑 [블랙] ",
-			"price": "판매가 : 15,000원 "
-		},
-		{
-			"img": "http://www.wecontinew.co.kr/web/product/big/202008/bacfe70c754f7236849153dc90fb5724.png",
-			"link": "http://www.wecontinew.co.kr/product/detail.html?product_no=53&cate_no=24&display_group=1",
-			"name": "CONTINEW 컨티뉴 러셀 백팩 [오렌지] ",
-			"price": "판매가 : 197,000원 "
+			"img": "https://cdn.imweb.me/thumbnail/20201102/6baa2ba3ddb93.jpg",
+			"link": "https://thenotours.com//products/?idx=218",
+			"name": "Pima Air Cotton Knit Vest I Black",
+			"price": "124,000원"
 		}
 	]
 }
