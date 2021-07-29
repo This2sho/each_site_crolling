@@ -88,17 +88,17 @@ for idx, sell in enumerate(sells):
     temp_list.append(item)
 
 # 잘 써졌는지 확인용
-data[name] = temp_list
-with open("test.json", "w", encoding="utf-8") as make_file:
-    json.dump(data, make_file, indent="\t", ensure_ascii=False)
+# data[name] = temp_list
+# with open("test.json", "w", encoding="utf-8") as make_file:
+#     json.dump(data, make_file, indent="\t", ensure_ascii=False)
 
 # 파일 쓰기 test보고 잘 됐으면 ㄱㄱ
 # 저장된 파일에 추가하기
-# with open(file_name, 'r', encoding="utf-8") as f:
-#     read_data = json.load(f)
-# read_data[name] = temp_list
-# with open(file_name, "w", encoding="utf-8") as make_file:
-#     json.dump(read_data, make_file, indent="\t",ensure_ascii=False)
+with open(file_name, 'r', encoding="utf-8") as f:
+    read_data = json.load(f)
+read_data[name] = temp_list
+with open(file_name, "w", encoding="utf-8") as make_file:
+    json.dump(read_data, make_file, indent="\t",ensure_ascii=False)
 
 browser.quit()
 print("완료")
