@@ -1,188 +1,188 @@
 {
-	"vegantiger": [
+	"pangaia": [
 		{
-			"logo": "https://vegantigerkorea.com/web/upload/ga09/logo.png",
-			"description": "설명 없음."
+			"logo": "data:image/png;base64,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",
+			"description": "While 2020 has been an unpredictable year, we’ve achieved more this year than we could ever have imagined. We’re still committed to constantly evolving and finding new ways to protect our planet. We want to thank you for choosing PANGAIA and joining us in this mission. Without you, none of this would be possible."
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202106/f5fb91578b69a07fbc206ae468ac9a99.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=665&cate_no=58&display_group=1",
-			"name": "스카이블루 타이거 로브",
-			"price": "148,000"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Sakura-Organic-Cotton-Shorts-Pink-1_100x.jpg?v=1627477627",
+			"link": "//thepangaia.com/collections/all/products/organic-cotton-shorts-sakura",
+			"name": "Sakura Shorts",
+			"price": "$70"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202107/b78a323cc771f76f0b2c4d5d3a716261.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=664&cate_no=58&display_group=1",
-			"name": "타이거셔츠 블랙멀티 ( 21S/S Ver. )",
-			"price": "148,000"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Horizon-Organic-Cotton-T-Shirt-Sunset-Pink-1_100x.jpg?v=1620317937",
+			"link": "//thepangaia.com/collections/all/products/horizon-t-shirt-sunset-pink",
+			"name": "Horizon T-shirt",
+			"price": "$75"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202107/2da55d2d864ec81990f3f69822cdc5d6.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=663&cate_no=58&display_group=1",
-			"name": "타이거셔츠 블루오렌지 ( 21S/S Ver. )",
-			"price": "148,000"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Horizon-Organic-Cotton-Hoodie-Sunset-Pink-1_100x.jpg?v=1620317938",
+			"link": "//thepangaia.com/collections/all/products/horizon-hoodie-sunset-pink",
+			"name": "Horizon Hoodie",
+			"price": "$170"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202107/48c29566a2c388abe4753af1843dc867.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=662&cate_no=58&display_group=1",
-			"name": "타이거셔츠 블랙민트 ( 21S/S Ver. )",
-			"price": "148,000"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Sakura-Organic-Cotton-Track-Pants-Pink-1_100x.jpg?v=1627477582",
+			"link": "//thepangaia.com/collections/all/products/organic-cotton-trackpants-sakura",
+			"name": "Sakura Track Pants",
+			"price": "$120"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202106/22941a0bab1b419a5cee7df9754e9eef.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=657&cate_no=58&display_group=1",
-			"name": "뉴 프렌즈 반팔 티셔츠 베이지",
-			"price": "38,400"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Heavyweight-Recycled-Cotton-Hoodie-Jade-Green-1_100x.jpg?v=1623933529",
+			"link": "//thepangaia.com/collections/all/products/365-heavyweight-hoodie-jade-green",
+			"name": "365 Heavyweight Hoodie",
+			"price": "$150"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202106/88e08b78cf97d97415c27a7910e50b4d.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=656&cate_no=58&display_group=1",
-			"name": "뉴 프렌즈 반팔 티셔츠 블루",
-			"price": "38,400"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Sakura-Organic-Cotton-Hoodie-Pink-1_100x.jpg?v=1627473975",
+			"link": "//thepangaia.com/collections/all/products/organic-cotton-hoodie-sakura",
+			"name": "Sakura Hoodie",
+			"price": "$150"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202106/f209cf866c1e87aeb592b248d08c71dc.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=655&cate_no=58&display_group=1",
-			"name": "돈 크라이 반팔 티셔츠 퍼플",
-			"price": "38,400"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Pangaia-Haroshi-Bearbrick-Organic-T-Shirt-Black-1_7f8fef15-389b-4128-96fe-5cfd28160235_100x.jpg?v=1627311809",
+			"link": "//thepangaia.com/collections/all/products/pangaia-x-haroshi-be-rbrick-organic-cotton-t-shirt-black",
+			"name": "Pangaia x Haroshi BE@RBRICK™ Organic Cotton T-shirt",
+			"price": "$75"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202106/1c4f192af13108cd5187650bcbce790b.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=654&cate_no=58&display_group=1",
-			"name": "돈 크라이 반팔 티셔츠 그레이",
-			"price": "38,400"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Seaweed-Fiber-T-Shirt-Off-White-1_100x.jpg?v=1627486975",
+			"link": "//thepangaia.com/collections/all/products/organic-cotton-t-shirt-with-c-fiber-off-white",
+			"name": "Organic Cotton T-shirt with C-FIBER™",
+			"price": "$75"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202106/7ee2a063c00261add111ebb14457c1ea.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=653&cate_no=58&display_group=1",
-			"name": "비건 정령 프린트 셔츠 화이트",
-			"price": "133,200"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Pangaia-Haroshi-Bearbrick-Organic-Hoodie-Black-1_04d4c546-bdaf-46e0-b2a0-fe12b02a47a4_100x.jpg?v=1627312275",
+			"link": "//thepangaia.com/collections/all/products/pangaia-x-haroshi-be-rbrick-recycled-cotton-hoodie-black",
+			"name": "Pangaia x Haroshi BE@RBRICK™ Recycled Cotton Hoodie",
+			"price": "$195"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202106/e52a6f7df3c65821c49fdbb3112a3f95.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=652&cate_no=58&display_group=1",
-			"name": "비건 정령 프린트 셔츠 네이비",
-			"price": "133,200"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Pangaia-Haroshi-Bearbrick-Organic-T-Shirt-Off-White-1_2e62bb95-644d-44ed-8721-d3764408b0bf_100x.jpg?v=1627312222",
+			"link": "//thepangaia.com/collections/all/products/pangaia-x-haroshi-be-rbrick-organic-cotton-t-shirt-off-white",
+			"name": "Pangaia x Haroshi BE@RBRICK™ Organic Cotton T-shirt",
+			"price": "$75"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202106/f5fb91578b69a07fbc206ae468ac9a99.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=650&cate_no=58&display_group=1",
-			"name": "스카이블루 타이거 로브",
-			"price": "133,200"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Sakura-Organic-Cotton-T-Shirt-Pink-1_100x.jpg?v=1627477470",
+			"link": "//thepangaia.com/collections/all/products/organic-cotton-t-shirt-sakura",
+			"name": "Sakura T-shirt",
+			"price": "$55"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202106/df8ab897e70e001baffb43c127a40f5d.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=649&cate_no=58&display_group=1",
-			"name": "스트라이프 배색 타이거 로브 아이보리",
-			"price": "142,200"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Organic-Cotton-Track-Pants-Black-1_99f3eb7d-74cd-4ac0-9938-85fbf79072dd_100x.jpg?v=1627486544",
+			"link": "//thepangaia.com/collections/all/products/365-organic-cotton-trackpants-black",
+			"name": "365 Track Pants",
+			"price": "$120"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202106/c3ec860a47664f3040b603af0330b6d3.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=648&cate_no=58&display_group=1",
-			"name": "스트라이프 배색 타이거 로브 블랙",
-			"price": "142,200"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Organic-Cotton-Shorts-Black-1_a0d65edd-0e67-4855-bcc9-2387bbf3fb76_100x.jpg?v=1627486585",
+			"link": "//thepangaia.com/collections/all/products/365-organic-cotton-shorts-black",
+			"name": "365 Shorts",
+			"price": "$70"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202106/1f99eeffcb8c47aab9f2690f554f06b5.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=647&cate_no=58&display_group=1",
-			"name": "리사이클 블랙민트 타이거 로브",
-			"price": "133,200"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Organic-Cotton-Shorts-Sand-1_19d42173-048b-4a89-bb87-d776fee0b877_100x.jpg?v=1626262375",
+			"link": "//thepangaia.com/collections/all/products/365-organic-cotton-shorts-sand",
+			"name": "365 Shorts",
+			"price": "$70"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202106/c4e1bd799eed36779c9de206ceb05991.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=646&cate_no=58&display_group=1",
-			"name": "리사이클 오리지널 타이거 로브",
-			"price": "133,200"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Organic-Cotton-Track-Pants-Sand-1_99bc1e91-bb9d-4d68-b403-0a07af3a6278_100x.jpg?v=1627466574",
+			"link": "//thepangaia.com/collections/all/products/365-organic-cotton-trackpants-sand",
+			"name": "365 Track Pants",
+			"price": "$120"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202106/786a4ba79dd23397b21bd6f5ea4e5186.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=645&cate_no=58&display_group=1",
-			"name": "타이거 타이-다이 프린트 셔츠",
-			"price": "133,200"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Pangaia-Haroshi-Bearbrick-Organic-Track-Pants-Black-1_f2f3006f-362b-4882-a5df-c4efe2bea9d2_100x.jpg?v=1627317907",
+			"link": "//thepangaia.com/collections/all/products/pangaia-x-haroshi-be-rbrick-rec-cotton-trackpant-black",
+			"name": "Pangaia x Haroshi BE@RBRICK™ Recycled Cotton Track Pants",
+			"price": "$160"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202106/a71537213be77138e789c22777a397b5.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=644&cate_no=58&display_group=1",
-			"name": "블랙 스트링 썸머 원피스",
-			"price": "205,200"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Heavyweight-Recycled-Cotton-Hoodie-Celestial-Blue-1_100x.jpg?v=1605104924",
+			"link": "//thepangaia.com/collections/all/products/365-heavyweight-hoodie-celestial-blue",
+			"name": "365 Heavyweight Hoodie",
+			"price": "$150"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202106/c42953dec02fbc349346d90d69394d65.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=643&cate_no=58&display_group=1",
-			"name": "타이거 타이-다이 프린트 스트링 원피스",
-			"price": "223,200"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Organic-Cotton-Hoodie-Cobalt-Blue-1_100x.jpg?v=1627487986",
+			"link": "//thepangaia.com/collections/all/products/365-organic-cotton-hoodie-cobalt-blue",
+			"name": "365 Hoodie",
+			"price": "$150"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202105/5b0fdfe8136e4c0a94458d152edbbac2.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=641&cate_no=58&display_group=1",
-			"name": "홀터넥 점프슈트",
-			"price": "313,200"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Organic-Cotton-Track-Pants-Navy-1_100x.jpg?v=1616594257",
+			"link": "//thepangaia.com/collections/all/products/365-organic-cotton-trackpants-navy-blue",
+			"name": "365 Track Pants",
+			"price": "$120"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202105/90dc77383ec3f49f5618d9a129f4718b.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=640&cate_no=58&display_group=1",
-			"name": "자카드 슬리브리스 탑 브라운",
-			"price": "124,200"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Seaweed-Fiber-T-Shirt-Black-1_100x.jpg?v=1614761847",
+			"link": "//thepangaia.com/collections/all/products/organic-cotton-t-shirt-with-c-fiber-black",
+			"name": "Organic Cotton T-shirt with C-FIBER™",
+			"price": "$75"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202105/d29bc78cb074f082ca4fcebf3ca93b64.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=639&cate_no=58&display_group=1",
-			"name": "자카드 슬릿 팬츠 브라운",
-			"price": "151,200"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Heavyweight-Recycled-Cotton-Hoodie-Cobalt-Blue-1_100x.jpg?v=1623933033",
+			"link": "//thepangaia.com/collections/all/products/365-heavyweight-hoodie-cobalt-blue",
+			"name": "365 Heavyweight Hoodie",
+			"price": "$150"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202105/5608c06800d03fa835a9dfe9b7300bfa.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=638&cate_no=58&display_group=1",
-			"name": "자카드 슬리브리스 탑 딥그린",
-			"price": "124,200"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Seaweed-Fiber-T-Shirt-Sand-1_100x.jpg?v=1627466556",
+			"link": "//thepangaia.com/collections/all/products/organic-cotton-t-shirt-with-c-fiber-sand",
+			"name": "Organic Cotton T-shirt with C-FIBER™",
+			"price": "$75"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202105/2d6fb42411e1fd62ac5ebc91f485630f.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=637&cate_no=58&display_group=1",
-			"name": "자카드 슬릿 팬츠 딥그린",
-			"price": "151,200"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Pangaia-Haroshi-Bearbrick-Organic-Hoodie-Off-White-1_a331bb16-3101-4d3c-8f36-cdddbcf1df4b_100x.jpg?v=1627312111",
+			"link": "//thepangaia.com/collections/all/products/pangaia-x-haroshi-be-rbrick-recycled-cotton-hoodie-off-white",
+			"name": "Pangaia x Haroshi BE@RBRICK™ Recycled Cotton Hoodie",
+			"price": "$195"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202104/35a638359c630602bbf27977df84eddc.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=636&cate_no=58&display_group=1",
-			"name": "오버핏 집업 점퍼 타이다이",
-			"price": "268,200"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Organic-Cotton-Hoodie-Navy-1_100x.jpg?v=1624980118",
+			"link": "//thepangaia.com/collections/all/products/365-organic-cotton-hoodie-navy-blue",
+			"name": "365 Hoodie",
+			"price": "$150"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202104/8912ffa01be9b1f26accd9f13e13aeac.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=635&cate_no=58&display_group=1",
-			"name": "오버핏 조거팬츠 타이다이",
-			"price": "151,200"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Organic-Cotton-Shorts-Off-White-1_6009e3b4-17c5-481a-990a-39b689e954dc_100x.jpg?v=1627487035",
+			"link": "//thepangaia.com/collections/all/products/365-organic-cotton-shorts-off-white",
+			"name": "365 Shorts",
+			"price": "$70"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202104/711ad26f5880b84c76954ffbbaf22b35.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=634&cate_no=58&display_group=1",
-			"name": "오버핏 집업 점퍼 네이비",
-			"price": "268,200"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Organic-Cotton-Shorts-Flamingo-Pink-1_3700c73c-27df-41f4-9013-a66f9e260cd2_100x.jpg?v=1627487972",
+			"link": "//thepangaia.com/collections/all/products/365-organic-cotton-shorts-flamingo-pink",
+			"name": "365 Shorts",
+			"price": "$70"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202104/3107a0e46a0d0034ab2ccfcc92a2dc0b.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=633&cate_no=58&display_group=1",
-			"name": "오버핏 조거팬츠 네이비",
-			"price": "160,200"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Organic-Cotton-Shorts-Orchid-Purple-1_100x.jpg?v=1627466041",
+			"link": "//thepangaia.com/collections/all/products/365-organic-cotton-shorts-orchid-purple",
+			"name": "365 Shorts",
+			"price": "$70"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202104/a9d55114b07191a10cebbfd0b0320cd0.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=632&cate_no=58&display_group=1",
-			"name": "레드 스트라이프 벨보텀 팬츠",
-			"price": "133,200"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Organic-Cotton-Shorts-Jade-Green-1_71062e4b-20b3-453a-9182-5ffa0eda941f_100x.jpg?v=1626262375",
+			"link": "//thepangaia.com/collections/all/products/365-organic-cotton-shorts-jade-green",
+			"name": "365 Shorts",
+			"price": "$70"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202104/bd0ef1cff23d792aeb9ae1a739441329.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=631&cate_no=58&display_group=1",
-			"name": "오가닉 코튼 페이즐리 반팔셔츠 카키",
-			"price": "286,200"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Organic-Cotton-Hoodie-Black-1_100x.jpg?v=1627466922",
+			"link": "//thepangaia.com/collections/all/products/365-organic-cotton-hoodie-black",
+			"name": "365 Hoodie",
+			"price": "$150"
 		},
 		{
-			"img": "https://vegantigerkorea.com/web/product/medium/202104/4848aa05123ac453fa55c0ab8bd00932.jpg",
-			"link": "https://vegantigerkorea.com/product/detail.html?product_no=630&cate_no=58&display_group=1",
-			"name": "오가닉코튼 페이즐리 팬츠",
-			"price": "250,200"
+			"img": "https://cdn.shopify.com/s/files/1/0035/1309/0115/products/Organic-Cotton-Hoodie-Sand-1_100x.jpg?v=1627466481",
+			"link": "//thepangaia.com/collections/all/products/365-organic-cotton-hoodie-sand",
+			"name": "365 Hoodie",
+			"price": "$150"
 		}
 	]
 }

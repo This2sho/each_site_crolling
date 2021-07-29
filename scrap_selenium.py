@@ -4,6 +4,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium import webdriver
 import json
+import time
 
 options = webdriver.ChromeOptions()
 options.headless = False
@@ -12,6 +13,26 @@ options.add_argument("windw-size=1902x1080") # pc해상도 설정
 browser = webdriver.Chrome(options=options)
 browser.maximize_window()
 
+def Scroll_max(browser):
+    browser.execute_script("window.scrollTo(0, document.body.scrollHeight)")
+    interval = 1 # 1초에 한번씩 스크롤 내림
+    prev_height = browser.execute_script("return document.body.scrollHeight")
+    # 반복 수행
+    while True:
+        # 스크롤 가장 아래로 내림
+        browser.execute_script("window.scrollTo(0, document.body.scrollHeight)")
+        
+        # 페이지 로딩 대기
+        time.sleep(interval)
+
+        # 현재 문서 높이를 가져와서 저장
+        curr_height = browser.execute_script("return document.body.scrollHeight")
+        if curr_height == prev_height:
+            break
+
+        prev_height = curr_height
+
+    print("스크롤 완료")
 
 # 저장할 파일 설정
 file_name = "data.json"
