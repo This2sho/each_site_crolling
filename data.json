@@ -2068,5 +2068,191 @@
 			"name": "B.C BRACELET 02",
 			"price": "27,000원"
 		}
+	],
+	"kaneitei": [
+		{
+			"logo": "//contents.sixshop.com/uploadedFiles/28069/default/image_1513075171938.png",
+			"description": "카네이테이는 빈티지 군용 텐트를 재활용하여 제품을 만듭니다.\n카네이테이 제품은 시간의 흔적들이 만들어낸 자연스러운 다양성을 그대로 포용합니다. \n꾸며내고 다듬어서가 아닌 상처 나고 녹슨 있는 그대로의 모습에서 완전함을 느낍니다."
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1618731424116.jpg",
+			"link": "https://www.kaneitei.com/product/tiger_black",
+			"name": "타이거 (블랙) 2.0",
+			"price": "36,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1621932814322.jpg",
+			"link": "https://www.kaneitei.com/product/strap_black_01",
+			"name": "톱니고리 스트랩 (블랙)",
+			"price": "7,500원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1621940950121.jpg",
+			"link": "https://www.kaneitei.com/product/ginza_paisely_grey",
+			"name": "긴자(페이즐리)",
+			"price": "99,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1613717549498.jpg",
+			"link": "https://www.kaneitei.com/product/mason_m",
+			"name": "메이슨 (카키) M",
+			"price": "155,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1613717313750.jpg",
+			"link": "https://www.kaneitei.com/product/mason_l",
+			"name": "메이슨 (카키) L",
+			"price": "178,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1613716339256.jpg",
+			"link": "https://www.kaneitei.com/product/mason_xl",
+			"name": "메이슨 (카키) XL",
+			"price": "239,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1613717046216.jpg",
+			"link": "https://www.kaneitei.com/product/orion",
+			"name": "오리온 (카키)",
+			"price": "169,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1615957293554.jpg",
+			"link": "https://www.kaneitei.com/product/tiger_khaki_s",
+			"name": "타이거 (카키) S",
+			"price": "36,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1615957529878.jpg",
+			"link": "https://www.kaneitei.com/product/tiger_khaki_m",
+			"name": "타이거 (카키) M",
+			"price": "59,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1615957658835.jpg",
+			"link": "https://www.kaneitei.com/product/tiger_khaki_l",
+			"name": "타이거 (카키) L",
+			"price": "65,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1615957977423.jpg",
+			"link": "https://www.kaneitei.com/product/tiger__khaki_xl",
+			"name": "타이거 (카키) XL",
+			"price": "69,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1615938354524.jpg",
+			"link": "https://www.kaneitei.com/product/tiger_soft_s",
+			"name": "타이거 (소프트) S",
+			"price": "36,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1615942031546.jpg",
+			"link": "https://www.kaneitei.com/product/Tiger_Soft_m",
+			"name": "타이거 (소프트) M",
+			"price": "59,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1615940762962.jpg",
+			"link": "https://www.kaneitei.com/product/tiger_soft_l",
+			"name": "타이거 (소프트) L",
+			"price": "65,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1615941666043.jpg",
+			"link": "https://www.kaneitei.com/product/tiger_soft_xl",
+			"name": "타이거 (소프트) XL",
+			"price": "69,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1603017935832.jpg",
+			"link": "https://www.kaneitei.com/product/om_black",
+			"name": "옴 (그레이)",
+			"price": "69,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1603017914099.jpg",
+			"link": "https://www.kaneitei.com/product/dip_black",
+			"name": "딥 (그레이)",
+			"price": "89,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1603017955417.jpg",
+			"link": "https://www.kaneitei.com/product/palm_black",
+			"name": "팜 (그레이)",
+			"price": "45,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1603017883773.jpg",
+			"link": "https://www.kaneitei.com/product/berlin_m_black",
+			"name": "베를린 (그레이) M",
+			"price": "88,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1558144501973.jpg",
+			"link": "https://www.kaneitei.com/product/Om",
+			"name": "옴 (카키)",
+			"price": "69,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1558145462219.jpg",
+			"link": "https://www.kaneitei.com/product/dip",
+			"name": "딥 (카키)",
+			"price": "89,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1610358314964.jpg",
+			"link": "https://www.kaneitei.com/product/palm",
+			"name": "팜 (카키)",
+			"price": "45,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1575867109575.jpg",
+			"link": "https://www.kaneitei.com/product/biscuit",
+			"name": "비스킷 (카키)",
+			"price": "59,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1558145938541.jpg",
+			"link": "https://www.kaneitei.com/product/pocketwallet",
+			"name": "와비 (카키)",
+			"price": "135,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1558149201418.jpg",
+			"link": "https://www.kaneitei.com/product/Camel",
+			"name": "카멜 (카키)",
+			"price": "119,000원 (Sold Out)"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1558146267712.jpg",
+			"link": "https://www.kaneitei.com/product/3LAYERSWALLETM",
+			"name": "베를린 (카키) M",
+			"price": "88,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1558146291881.jpg",
+			"link": "https://www.kaneitei.com/product/3LAYERSWALLETL",
+			"name": "베를린 (카키) L",
+			"price": "99,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1558145958837.jpg",
+			"link": "https://www.kaneitei.com/product/brick_s",
+			"name": "브릭 (카키) S",
+			"price": "79,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1558146003618.jpg",
+			"link": "https://www.kaneitei.com/product/brickm",
+			"name": "브릭 (카키) M",
+			"price": "88,000원"
+		},
+		{
+			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1558146142968.jpg",
+			"link": "https://www.kaneitei.com/product/brickl",
+			"name": "브릭 (카키) L",
+			"price": "119,000원"
+		}
 	]
 }
