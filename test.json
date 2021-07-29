@@ -1,188 +1,98 @@
 {
-	"kaneitei": [
+	"bbyb": [
 		{
-			"logo": "//contents.sixshop.com/uploadedFiles/28069/default/image_1513075171938.png",
-			"description": "카네이테이는 빈티지 군용 텐트를 재활용하여 제품을 만듭니다.\n카네이테이 제품은 시간의 흔적들이 만들어낸 자연스러운 다양성을 그대로 포용합니다. \n꾸며내고 다듬어서가 아닌 상처 나고 녹슨 있는 그대로의 모습에서 완전함을 느낍니다."
+			"logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAeFBMVEX///8AAADt7e1SUlKoqKiNjY0HBweZmZnx8fH19fVCQkInJyctLS2JiYnr6+v09PTT09PZ2dnf39+CgoJJSUl2dna0tLTGxsZiYmI6OjofHx8vLy9nZ2e9vb1YWFhubm6enp4YGBiVlZU2NjbDw8O5ubkTExM/Pz+sfe3nAAAEeUlEQVR4nO2a6VYiMRBGG9ltBUVRNhEQ9f3fcFyo6izVGaQjc86ce395qoukvyxVlbRFAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP8twwuLselrug6GUZMjeWb/fFT94ie9n0qnZTLfXUSuF7br9vnG9xvpo0fX/KDmSuG13eRlf/DrCsPXSyj84M53nIp95lrvxdqtbN26Fstg1H5FYSTxolfrOvUcJ2ofVcZbNTrzU6uw1ZqcQeFVsMMSCoPRmIl5V9nuxOZOeELhyxkUtjrHK5x7njpfCzUNFmJzJyehsPV0BoX3xyts3Xqul2Lei0XjzLPrl1K4PoPCnr8Xkgr9+X6MXrMtFi+EpBT2ojTUTGF5KcyrTvyAJgp77+qrS8+fmqJ4F/thkHTd+jMjCq+s3v1l0VihE8In+nr+VhCFTgQa78Q1WNGvLb9djTN7z00UbpzeS3GN0tVpiMJrx6YD7i89UVi66VhGww81RbE82JdfwzGUFi99L1HYd2y6wjOFGkvh8Op4hTKJYXDveO+pcebB97IUFmdQqGHBfx9Tofz+PWhXs8NXXSMzXQZepkL55b7IgqlQCiw70pgKvQLtE92hH7HmRv4OMqytcGv2fjLmKi2rl3NIrtJN2PCoV7UshWqUAFKrtJfpiJGKNDUZ31P4UjvgEj63Q40z3dDHiKXF/mDLnfHvxno8u5U4WFO1lZPqcCgylnHLWn/vNepEZyJRuNPeB7eySF8zKzQof1B5W3FvdXg2kyw+jVwSNY0xZtkVhgsvofDOavom9BpFLvUK385weroOXesVzuMLgU/avtcq9qhX2I+dsyuMEkBqlZo15ONffRKr9Dn2zq4wXHvJs4UZ2peuR9twSJ0tdoZ/boXBqCcVmjvxyfWwCumUwlz3GEmFfvBLKuyZW3FbOdxbz5MKo+zZTGF70xemen5ZeAlMFG536tqtgslDqvW656Jw5vSuo5IpXxjnw2KgF39ewjDOh0XRF1czMgzf5PGLeWK3apqR7t48R2Cz8tZM5vZsV216JRMeLr7RAQhr7m/MujTzAdFUOJYDohc/bIXykqV5TS3334s427s/9hRqGZsnmpoKNVd7ocZWKA30TA2Dw9Olfa1kKtQkY8bnH5NW6G2uJgrD2+UDaYVxHXsKpsLhi9WHrVAOiG/ZFOoq/cU5nJh92ArXLcsqnKJQL8Ly7kMvverHo41rNbOFBj47lh6p0OtHv3rkjaXrToV2YefD7aZyrT4ARhc1P1G4cnpf2703Vmjj7a1k1VaT8I5UaLLI85k0qdC/KkkrtOvkJgqN82R2hfat/hGDkUVh5ttEi9O/ruVQeI6va8HCSymsC+wNFNp1Xk6Fb01vohop3P7+TdQqGsPa/8WY1ycuUVjaF9g1/23yUUzZd1un8HrfjllPN8YQDgzPdnvVfUx8rB0fmp/ZPh27906uFQoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwz/gDKxoxvnHk0lQAAAAASUVORK5CYII=",
+			"description": "BBYB는 BLANK BY BELLA의 약자로 다채로운 컬러와 다양한 소재로\n매 시즌 새롭고 유니크한 컨셉의 디자인을 선보입니다.\n이탈리아어로 '아름다운 여성'을 의미하는 벨라는\n'BBYB'가 추구하는 여성을 표현합니다.\n많은 여성들은 때로는 사랑스럽게, 때로는 아름답게, 때로는 시크하게\n자신의 개성을 드러내고 싶어합니다.\n적극적이면서 넓은 시야를 갖고 낡은 가치관에 구애 받지 않는\n새로운 라이프 스타일을 지향하는 여성들을 위해\n매 시즌 다양하고 독특한 BBYB만의 감성을 담은 벨라를 채워나갑니다."
 		},
 		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1618731424116.jpg",
-			"link": "https://www.kaneitei.com/product/tiger_black",
-			"name": "타이거 (블랙) 2.0",
-			"price": "36,000원"
+			"img": "https://bbybstore.com/data/goods/21/05/18/1000000167/1000000167_main_099.jpg",
+			"link": "https://bbybstore.com/goods/goods_view.php?goodsNo=1000000167",
+			"name": "MARCE Shoulder Bag Denim (Light Blue)",
+			"price": "￦129,000"
 		},
 		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1621932814322.jpg",
-			"link": "https://www.kaneitei.com/product/strap_black_01",
-			"name": "톱니고리 스트랩 (블랙)",
-			"price": "7,500원"
+			"img": "https://bbybstore.com/data/goods/21/05/18/1000000166/1000000166_main_061.jpg",
+			"link": "https://bbybstore.com/goods/goods_view.php?goodsNo=1000000166",
+			"name": "MARCE Mini Bag Denim (Light Blue)",
+			"price": "￦119,000"
 		},
 		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1621940950121.jpg",
-			"link": "https://www.kaneitei.com/product/ginza_paisely_grey",
-			"name": "긴자(페이즐리)",
-			"price": "99,000원"
+			"img": "https://bbybstore.com/data/goods/21/05/18/1000000165/1000000165_main_05.jpg",
+			"link": "https://bbybstore.com/goods/goods_view.php?goodsNo=1000000165",
+			"name": "MARCE Slim Unisex Tote Bag (Sand Ivory)",
+			"price": "￦139,000"
 		},
 		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1613717549498.jpg",
-			"link": "https://www.kaneitei.com/product/mason_m",
-			"name": "메이슨 (카키) M",
-			"price": "155,000원"
+			"img": "https://bbybstore.com/data/goods/21/05/18/1000000164/1000000164_main_014.jpg",
+			"link": "https://bbybstore.com/goods/goods_view.php?goodsNo=1000000164",
+			"name": "MARCE Slim Unisex Tote Bag (Sage Khaki)",
+			"price": "￦139,000"
 		},
 		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1613717313750.jpg",
-			"link": "https://www.kaneitei.com/product/mason_l",
-			"name": "메이슨 (카키) L",
-			"price": "178,000원"
+			"img": "https://bbybstore.com/data/goods/21/03/11/1000000160/1000000160_main_097.jpg",
+			"link": "https://bbybstore.com/goods/goods_view.php?goodsNo=1000000160",
+			"name": "Atti Saddle Cross Bag (Muted Lime)",
+			"price": "￦139,000"
 		},
 		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1613716339256.jpg",
-			"link": "https://www.kaneitei.com/product/mason_xl",
-			"name": "메이슨 (카키) XL",
-			"price": "239,000원"
+			"img": "https://bbybstore.com/data/goods/21/03/11/1000000158/1000000158_main_06.jpg",
+			"link": "https://bbybstore.com/goods/goods_view.php?goodsNo=1000000158",
+			"name": "Atti Saddle Cross Bag (Jade Black)",
+			"price": "￦139,000"
 		},
 		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1613717046216.jpg",
-			"link": "https://www.kaneitei.com/product/orion",
-			"name": "오리온 (카키)",
-			"price": "169,000원"
+			"img": "https://bbybstore.com/data/goods/21/03/11/1000000162/1000000162_main_089.jpg",
+			"link": "https://bbybstore.com/goods/goods_view.php?goodsNo=1000000162",
+			"name": "Nicke Chain Shoulder Bag (Titanium White)",
+			"price": "￦129,000"
 		},
 		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1615957293554.jpg",
-			"link": "https://www.kaneitei.com/product/tiger_khaki_s",
-			"name": "타이거 (카키) S",
-			"price": "36,000원"
+			"img": "https://bbybstore.com/data/goods/21/03/11/1000000161/1000000161_main_081.jpg",
+			"link": "https://bbybstore.com/goods/goods_view.php?goodsNo=1000000161",
+			"name": "Nicke Chain Shoulder Bag (Jade Black)",
+			"price": "￦129,000"
 		},
 		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1615957529878.jpg",
-			"link": "https://www.kaneitei.com/product/tiger_khaki_m",
-			"name": "타이거 (카키) M",
-			"price": "59,000원"
+			"img": "https://bbybstore.com/data/goods/21/03/11/1000000163/1000000163_main_031.jpg",
+			"link": "https://bbybstore.com/goods/goods_view.php?goodsNo=1000000163",
+			"name": "Nicke Chain Shoulder Bag (Forest Green)",
+			"price": "￦129,000"
 		},
 		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1615957658835.jpg",
-			"link": "https://www.kaneitei.com/product/tiger_khaki_l",
-			"name": "타이거 (카키) L",
-			"price": "65,000원"
+			"img": "https://bbybstore.com/data/goods/21/02/08/1000000151/1000000151_main_017.jpg",
+			"link": "https://bbybstore.com/goods/goods_view.php?goodsNo=1000000151",
+			"name": "MARCE Unisex Cross Bag (Tan Brown)",
+			"price": "￦119,000"
 		},
 		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1615957977423.jpg",
-			"link": "https://www.kaneitei.com/product/tiger__khaki_xl",
-			"name": "타이거 (카키) XL",
-			"price": "69,000원"
+			"img": "https://bbybstore.com/data/goods/21/02/08/1000000153/1000000153_main_076.jpg",
+			"link": "https://bbybstore.com/goods/goods_view.php?goodsNo=1000000153",
+			"name": "MARCE Unisex Cross Bag (Titanium White)",
+			"price": "￦119,000"
 		},
 		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1615938354524.jpg",
-			"link": "https://www.kaneitei.com/product/tiger_soft_s",
-			"name": "타이거 (소프트) S",
-			"price": "36,000원"
+			"img": "https://bbybstore.com/data/goods/21/02/08/1000000152/1000000152_main_043.jpg",
+			"link": "https://bbybstore.com/goods/goods_view.php?goodsNo=1000000152",
+			"name": "MARCE Unisex Cross Bag (Glow Black)",
+			"price": "￦119,000"
 		},
 		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1615942031546.jpg",
-			"link": "https://www.kaneitei.com/product/Tiger_Soft_m",
-			"name": "타이거 (소프트) M",
-			"price": "59,000원"
+			"img": "https://bbybstore.com/data/goods/21/02/08/1000000154/1000000154_main_03.jpg",
+			"link": "https://bbybstore.com/goods/goods_view.php?goodsNo=1000000154",
+			"name": "MARCE Unisex Cross Bag (Neon Black)",
+			"price": "￦119,000"
 		},
 		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1615940762962.jpg",
-			"link": "https://www.kaneitei.com/product/tiger_soft_l",
-			"name": "타이거 (소프트) L",
-			"price": "65,000원"
+			"img": "https://bbybstore.com/data/goods/21/02/08/1000000157/1000000157_main_088.jpg",
+			"link": "https://bbybstore.com/goods/goods_view.php?goodsNo=1000000157",
+			"name": "Multi Airpod Case (Titanium White)",
+			"price": "￦29,000"
 		},
 		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1615941666043.jpg",
-			"link": "https://www.kaneitei.com/product/tiger_soft_xl",
-			"name": "타이거 (소프트) XL",
-			"price": "69,000원"
-		},
-		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1603017935832.jpg",
-			"link": "https://www.kaneitei.com/product/om_black",
-			"name": "옴 (그레이)",
-			"price": "69,000원"
-		},
-		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1603017914099.jpg",
-			"link": "https://www.kaneitei.com/product/dip_black",
-			"name": "딥 (그레이)",
-			"price": "89,000원"
-		},
-		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1603017955417.jpg",
-			"link": "https://www.kaneitei.com/product/palm_black",
-			"name": "팜 (그레이)",
-			"price": "45,000원"
-		},
-		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1603017883773.jpg",
-			"link": "https://www.kaneitei.com/product/berlin_m_black",
-			"name": "베를린 (그레이) M",
-			"price": "88,000원"
-		},
-		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1558144501973.jpg",
-			"link": "https://www.kaneitei.com/product/Om",
-			"name": "옴 (카키)",
-			"price": "69,000원"
-		},
-		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1558145462219.jpg",
-			"link": "https://www.kaneitei.com/product/dip",
-			"name": "딥 (카키)",
-			"price": "89,000원"
-		},
-		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1610358314964.jpg",
-			"link": "https://www.kaneitei.com/product/palm",
-			"name": "팜 (카키)",
-			"price": "45,000원"
-		},
-		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1575867109575.jpg",
-			"link": "https://www.kaneitei.com/product/biscuit",
-			"name": "비스킷 (카키)",
-			"price": "59,000원"
-		},
-		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1558145938541.jpg",
-			"link": "https://www.kaneitei.com/product/pocketwallet",
-			"name": "와비 (카키)",
-			"price": "135,000원"
-		},
-		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1558149201418.jpg",
-			"link": "https://www.kaneitei.com/product/Camel",
-			"name": "카멜 (카키)",
-			"price": "119,000원 (Sold Out)"
-		},
-		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1558146267712.jpg",
-			"link": "https://www.kaneitei.com/product/3LAYERSWALLETM",
-			"name": "베를린 (카키) M",
-			"price": "88,000원"
-		},
-		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1558146291881.jpg",
-			"link": "https://www.kaneitei.com/product/3LAYERSWALLETL",
-			"name": "베를린 (카키) L",
-			"price": "99,000원"
-		},
-		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1558145958837.jpg",
-			"link": "https://www.kaneitei.com/product/brick_s",
-			"name": "브릭 (카키) S",
-			"price": "79,000원"
-		},
-		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1558146003618.jpg",
-			"link": "https://www.kaneitei.com/product/brickm",
-			"name": "브릭 (카키) M",
-			"price": "88,000원"
-		},
-		{
-			"img": "https://contents.sixshop.com/uploadedFiles/28069/product/image_1558146142968.jpg",
-			"link": "https://www.kaneitei.com/product/brickl",
-			"name": "브릭 (카키) L",
-			"price": "119,000원"
+			"img": "https://bbybstore.com/data/goods/21/02/08/1000000155/1000000155_main_035.jpg",
+			"link": "https://bbybstore.com/goods/goods_view.php?goodsNo=1000000155",
+			"name": "Multi Airpod Case (Tan Brown)",
+			"price": "￦29,000"
 		}
 	]
 }
