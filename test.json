@@ -1,188 +1,188 @@
 {
-	"119reo": [
+	"harliek": [
 		{
-			"logo": "https://cdn.imweb.me/thumbnail/20210728/f0c69bfbca671.png",
-			"description": "119REO는 제품 판매 수익금의 50%를 소방단체에 기부하고,전시 및 토크쇼를 통해 시민들에게 오늘날 소방 현실을 알립니다."
+			"logo": "/ruben/images/logo.png",
+			"description": "할리케이(Harlie K)는 지속 가능한 라이프 스타일을 디자인합니다.\n버려지는 제품들에 예술과 공예적 가치를 불어넣어 시간이 흐를수록\n멋스러워지는 디자인으로 새롭게 재탄생시키는 업사이클 비건 패션 브랜드입니다."
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210730/2f6ccb9d28c95.png",
-			"link": "http://www.119reo.com/25/?idx=49",
-			"name": "[119REO] REO893 토트백",
-			"price": "220,000원"
+			"img": "https://harliek.com/web/product/medium/202107/82bacb2717d8a27b894f70afad1b8eca.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=116&cate_no=47&display_group=1",
+			"name": "세미 크로스바디 백 / Sami Crossbody Bag [화이트]",
+			"price": "99,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210729/dba32031c35f3.png",
-			"link": "http://www.119reo.com/25/?idx=48",
-			"name": "[119REO] 당근파우치",
-			"price": "9,000원"
+			"img": "https://harliek.com/web/product/medium/202107/3b7304c17900ec483a139be8f77cbf33.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=115&cate_no=47&display_group=1",
+			"name": "세미 크로스바디 백 / Sami Crossbody Bag [레몬옐로]",
+			"price": "99,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210730/11e5cd49b239e.png",
-			"link": "http://www.119reo.com/25/?idx=47",
-			"name": "[119REO] REO926 / 백팩",
-			"price": "320,000원"
+			"img": "https://harliek.com/web/product/medium/202107/3422d8a8f7201d61c25644bb83f404a3.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=114&cate_no=47&display_group=1",
+			"name": "세미 크로스바디 백 / Sami Crossbody Bag [라이트블루]",
+			"price": "99,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210730/75f03856601c5.png",
-			"link": "http://www.119reo.com/25/?idx=46",
-			"name": "[119레오x코코몽] 업사이클 핸드폰 가방",
-			"price": "42,000원"
+			"img": "https://harliek.com/web/product/medium/202107/0c003d9e98887f930d6bbdc0d94d902c.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=113&cate_no=47&display_group=1",
+			"name": "세미 크로스바디 백 / Sami Crossbody Bag [레드]",
+			"price": "99,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210730/11b303bcfa206.png",
-			"link": "http://www.119reo.com/25/?idx=45",
-			"name": "[119레오x코코몽] 업사이클 리버시블 토트백",
-			"price": "63,000원"
+			"img": "https://harliek.com/web/product/medium/202107/1cd5ea7035d91d321c8b35f876efaafd.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=112&cate_no=47&display_group=1",
+			"name": "세미 크로스바디 백 / Sami Crossbody Bag [블랙]",
+			"price": "99,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210730/160ac713b6ca1.png",
-			"link": "http://www.119reo.com/25/?idx=44",
-			"name": "REO300 미니 메신저백",
-			"price": "102,000원"
+			"img": "https://harliek.com/web/product/medium/202107/f004553b6069ec1cb7d2a8abe3b58f0a.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=111&cate_no=47&display_group=1",
+			"name": "세미 크로스바디 백 / Sami Crossbody Bag [카멜]",
+			"price": "99,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210729/012436f6e4b1c.png",
-			"link": "http://www.119reo.com/25/?idx=43",
-			"name": "[119레오x코코몽 / 119 Key Organizer] 소방관 코코몽 가죽키링",
-			"price": "39,000원"
+			"img": "https://harliek.com/web/product/medium/202107/2dd9ff150848589596d272cbdc0ca0c1.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=110&cate_no=47&display_group=1",
+			"name": "세미 크로스바디 백 / Sami Crossbody Bag [카키]",
+			"price": "99,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210730/e8433bc873bc5.png",
-			"link": "http://www.119reo.com/25/?idx=42",
-			"name": "[119REO] 챌린저백 / challenger bag",
-			"price": "98,000원"
+			"img": "https://harliek.com/web/product/medium/202107/3548d69849128abf03e7676357e73963.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=109&cate_no=47&display_group=1",
+			"name": "비니 미니 토트백 / Beanie Mini Tote Bag [레몬옐로]",
+			"price": "199,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210729/e688bff9410c9.png",
-			"link": "http://www.119reo.com/25/?idx=39",
-			"name": "[119레오x코코몽 / 119 핸드폰 스트랩]",
-			"price": "16,000원"
+			"img": "https://harliek.com/web/product/medium/202107/edfaf88dabde1c4375af7f2d828bd6c2.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=108&cate_no=47&display_group=1",
+			"name": "비니 미니 토트백 / Beanie Mini Tote Bag [라이트블루]",
+			"price": "199,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210729/2af7be17d4767.png",
-			"link": "http://www.119reo.com/25/?idx=40",
-			"name": "[119레오x코코몽/119 키링] 소방관 코코몽 키링",
-			"price": "9,000원"
+			"img": "https://harliek.com/web/product/medium/202107/105f26e91e14d9548ef6180c1d3dbb3d.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=107&cate_no=47&display_group=1",
+			"name": "비니 미니 토트백 / Beanie Mini Tote Bag [레드]",
+			"price": "199,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210730/4f9cb87498be7.png",
-			"link": "http://www.119reo.com/25/?idx=37",
-			"name": "[119-wallet] 소방호스 카드지갑 S",
-			"price": "22,000원"
+			"img": "https://harliek.com/web/product/medium/202107/341e3ea6e2650365c380beb24348a94e.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=106&cate_no=47&display_group=1",
+			"name": "비니 미니 토트백 / Beanie Mini Tote Bag [블랙]",
+			"price": "199,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210729/5447cacd5d843.png",
-			"link": "http://www.119reo.com/25/?idx=38",
-			"name": "[119-wallet] 소방호스 카드지갑 M",
-			"price": "28,000원"
+			"img": "https://harliek.com/web/product/medium/202107/3d6a91f073c4439d000048af3baf2005.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=105&cate_no=47&display_group=1",
+			"name": "비니 미니 토트백 / Beanie Mini Tote Bag [카멜]",
+			"price": "199,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210730/06dc7ff0f2cd5.png",
-			"link": "http://www.119reo.com/25/?idx=36",
-			"name": "[119-Mask] REO 니트마스크",
-			"price": "26,000원"
+			"img": "https://harliek.com/web/product/medium/202107/82bacb2717d8a27b894f70afad1b8eca.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=116&cate_no=47&display_group=1",
+			"name": "세미 크로스바디 백 / Sami Crossbody Bag [화이트]",
+			"price": "99,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210729/4416719d613b7.png",
-			"link": "http://www.119reo.com/25/?idx=35",
-			"name": "[119-Key Organizer] 119 키홀더",
-			"price": "11,900원"
+			"img": "https://harliek.com/web/product/medium/202107/3b7304c17900ec483a139be8f77cbf33.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=115&cate_no=47&display_group=1",
+			"name": "세미 크로스바디 백 / Sami Crossbody Bag [레몬옐로]",
+			"price": "99,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210729/28f7a9e1b592f.png",
-			"link": "http://www.119reo.com/25/?idx=34",
-			"name": "119-ECG Key Ring/ 119 심전도 키링",
-			"price": "15,000원"
+			"img": "https://harliek.com/web/product/medium/202107/3422d8a8f7201d61c25644bb83f404a3.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=114&cate_no=47&display_group=1",
+			"name": "세미 크로스바디 백 / Sami Crossbody Bag [라이트블루]",
+			"price": "99,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210729/b55e00bd678d8.png",
-			"link": "http://www.119reo.com/25/?idx=32",
-			"name": "소방호스 필통",
-			"price": "26,000원"
+			"img": "https://harliek.com/web/product/medium/202107/0c003d9e98887f930d6bbdc0d94d902c.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=113&cate_no=47&display_group=1",
+			"name": "세미 크로스바디 백 / Sami Crossbody Bag [레드]",
+			"price": "99,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210730/2f6ccb9d28c95.png",
-			"link": "http://www.119reo.com/25/?idx=49",
-			"name": "[119REO] REO893 토트백",
-			"price": "220,000원"
+			"img": "https://harliek.com/web/product/medium/202107/1cd5ea7035d91d321c8b35f876efaafd.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=112&cate_no=47&display_group=1",
+			"name": "세미 크로스바디 백 / Sami Crossbody Bag [블랙]",
+			"price": "99,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210729/dba32031c35f3.png",
-			"link": "http://www.119reo.com/25/?idx=48",
-			"name": "[119REO] 당근파우치",
-			"price": "9,000원"
+			"img": "https://harliek.com/web/product/medium/202107/f004553b6069ec1cb7d2a8abe3b58f0a.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=111&cate_no=47&display_group=1",
+			"name": "세미 크로스바디 백 / Sami Crossbody Bag [카멜]",
+			"price": "99,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210730/11e5cd49b239e.png",
-			"link": "http://www.119reo.com/25/?idx=47",
-			"name": "[119REO] REO926 / 백팩",
-			"price": "320,000원"
+			"img": "https://harliek.com/web/product/medium/202107/2dd9ff150848589596d272cbdc0ca0c1.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=110&cate_no=47&display_group=1",
+			"name": "세미 크로스바디 백 / Sami Crossbody Bag [카키]",
+			"price": "99,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210730/75f03856601c5.png",
-			"link": "http://www.119reo.com/25/?idx=46",
-			"name": "[119레오x코코몽] 업사이클 핸드폰 가방",
-			"price": "42,000원"
+			"img": "https://harliek.com/web/product/medium/202107/3548d69849128abf03e7676357e73963.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=109&cate_no=47&display_group=1",
+			"name": "비니 미니 토트백 / Beanie Mini Tote Bag [레몬옐로]",
+			"price": "199,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210730/11b303bcfa206.png",
-			"link": "http://www.119reo.com/25/?idx=45",
-			"name": "[119레오x코코몽] 업사이클 리버시블 토트백",
-			"price": "63,000원"
+			"img": "https://harliek.com/web/product/medium/202107/edfaf88dabde1c4375af7f2d828bd6c2.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=108&cate_no=47&display_group=1",
+			"name": "비니 미니 토트백 / Beanie Mini Tote Bag [라이트블루]",
+			"price": "199,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210730/160ac713b6ca1.png",
-			"link": "http://www.119reo.com/25/?idx=44",
-			"name": "REO300 미니 메신저백",
-			"price": "102,000원"
+			"img": "https://harliek.com/web/product/medium/202107/105f26e91e14d9548ef6180c1d3dbb3d.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=107&cate_no=47&display_group=1",
+			"name": "비니 미니 토트백 / Beanie Mini Tote Bag [레드]",
+			"price": "199,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210729/012436f6e4b1c.png",
-			"link": "http://www.119reo.com/25/?idx=43",
-			"name": "[119레오x코코몽 / 119 Key Organizer] 소방관 코코몽 가죽키링",
-			"price": "39,000원"
+			"img": "https://harliek.com/web/product/medium/202107/341e3ea6e2650365c380beb24348a94e.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=106&cate_no=47&display_group=1",
+			"name": "비니 미니 토트백 / Beanie Mini Tote Bag [블랙]",
+			"price": "199,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210730/e8433bc873bc5.png",
-			"link": "http://www.119reo.com/25/?idx=42",
-			"name": "[119REO] 챌린저백 / challenger bag",
-			"price": "98,000원"
+			"img": "https://harliek.com/web/product/medium/202107/3d6a91f073c4439d000048af3baf2005.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=105&cate_no=47&display_group=1",
+			"name": "비니 미니 토트백 / Beanie Mini Tote Bag [카멜]",
+			"price": "199,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210729/e688bff9410c9.png",
-			"link": "http://www.119reo.com/25/?idx=39",
-			"name": "[119레오x코코몽 / 119 핸드폰 스트랩]",
-			"price": "16,000원"
+			"img": "https://harliek.com/web/product/medium/202107/82bacb2717d8a27b894f70afad1b8eca.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=116&cate_no=47&display_group=1",
+			"name": "세미 크로스바디 백 / Sami Crossbody Bag [화이트]",
+			"price": "99,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210729/2af7be17d4767.png",
-			"link": "http://www.119reo.com/25/?idx=40",
-			"name": "[119레오x코코몽/119 키링] 소방관 코코몽 키링",
-			"price": "9,000원"
+			"img": "https://harliek.com/web/product/medium/202107/3b7304c17900ec483a139be8f77cbf33.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=115&cate_no=47&display_group=1",
+			"name": "세미 크로스바디 백 / Sami Crossbody Bag [레몬옐로]",
+			"price": "99,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210730/4f9cb87498be7.png",
-			"link": "http://www.119reo.com/25/?idx=37",
-			"name": "[119-wallet] 소방호스 카드지갑 S",
-			"price": "22,000원"
+			"img": "https://harliek.com/web/product/medium/202107/3422d8a8f7201d61c25644bb83f404a3.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=114&cate_no=47&display_group=1",
+			"name": "세미 크로스바디 백 / Sami Crossbody Bag [라이트블루]",
+			"price": "99,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210729/5447cacd5d843.png",
-			"link": "http://www.119reo.com/25/?idx=38",
-			"name": "[119-wallet] 소방호스 카드지갑 M",
-			"price": "28,000원"
+			"img": "https://harliek.com/web/product/medium/202107/0c003d9e98887f930d6bbdc0d94d902c.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=113&cate_no=47&display_group=1",
+			"name": "세미 크로스바디 백 / Sami Crossbody Bag [레드]",
+			"price": "99,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210730/06dc7ff0f2cd5.png",
-			"link": "http://www.119reo.com/25/?idx=36",
-			"name": "[119-Mask] REO 니트마스크",
-			"price": "26,000원"
+			"img": "https://harliek.com/web/product/medium/202107/1cd5ea7035d91d321c8b35f876efaafd.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=112&cate_no=47&display_group=1",
+			"name": "세미 크로스바디 백 / Sami Crossbody Bag [블랙]",
+			"price": "99,000원"
 		},
 		{
-			"img": "https://cdn.imweb.me/thumbnail/20210729/4416719d613b7.png",
-			"link": "http://www.119reo.com/25/?idx=35",
-			"name": "[119-Key Organizer] 119 키홀더",
-			"price": "11,900원"
+			"img": "https://harliek.com/web/product/medium/202107/f004553b6069ec1cb7d2a8abe3b58f0a.jpg",
+			"link": "https://harliek.com/product/detail.html?product_no=111&cate_no=47&display_group=1",
+			"name": "세미 크로스바디 백 / Sami Crossbody Bag [카멜]",
+			"price": "99,000원"
 		}
 	]
 }
