@@ -83,7 +83,7 @@ for idx, sell in enumerate(sells):
         break
     item = dict()
     item["img"] =  sell.select_one('div>div>a>div>div>div>img')['src'] #find("div", attrs={"class":"product-card-images"}).select('div > div > img')["src"]
-    item["link"] = sell.find("a", attrs={"class":"product-card__image-container"})["href"]
+    item["link"] = "https:"+sell.find("a", attrs={"class":"product-card__image-container"})["href"]
     item["name"] = sell.find("a", attrs={"class":"product-card__title"}).get_text()
     item["price"] = sell.select_one('div.product-card__price').get_text()
     temp_list.append(item)
